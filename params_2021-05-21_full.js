@@ -20616,7 +20616,7 @@ params=
 ],
 "name": "The Iron Tower",
 "region": 5000000,
-"tpmin": 2
+"tpmin": 1
 },
 {
 "goodConsumptionUpgrade": 133934,
@@ -20670,7 +20670,7 @@ params=
 ],
 "name": "The Iron Tower",
 "region": 5000000,
-"tpmin": 2
+"tpmin": 1
 },
 {
 "goodConsumptionUpgrade": 133935,
@@ -20724,7 +20724,7 @@ params=
 ],
 "name": "The Iron Tower",
 "region": 5000000,
-"tpmin": 2
+"tpmin": 1
 },
 {
 "goodConsumptionUpgrade": 133936,
@@ -20778,7 +20778,7 @@ params=
 ],
 "name": "The Iron Tower",
 "region": 5000000,
-"tpmin": 2
+"tpmin": 1
 },
 {
 "goodConsumptionUpgrade": 133937,
@@ -20832,7 +20832,7 @@ params=
 ],
 "name": "The Iron Tower",
 "region": 5000000,
-"tpmin": 2
+"tpmin": 1
 }
 ],
 "recipeLists": [
