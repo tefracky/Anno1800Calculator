@@ -3554,7 +3554,7 @@ if(window.params == null)window.params={
                 "chinese": "缝纫机器工厂",
                 "english": "Sewing Machine Factory",
                 "french": "Usine de machines à coudre",
-                "german": "Nähmaschinenfabrik",
+                "german": "Kleine Nähmaschinenfabrik",
                 "italian": "Fabbrica di macchine da cucire",
                 "japanese": "ミシン工場",
                 "korean": "재봉틀 공장",
