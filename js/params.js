@@ -3566,12 +3566,12 @@ if(window.params == null)window.params={
             },
             "maintenances": [
                 {
-                    "Amount": 500,
-                    "InactiveAmount": 250,
+                    "Amount": 170,
+                    "InactiveAmount": 85,
                     "Product": 1010017
                 },
                 {
-                    "Amount": 150,
+                    "Amount": 50,
                     "Product": 1010116
                 }
             ],
@@ -3584,7 +3584,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000000,
-            "tpmin": 2
+            "tpmin": 0.677777777777777
         },
         {
             "canClip": false,
