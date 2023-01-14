@@ -9588,7 +9588,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000000,
-            "tpmin": 1
+            "tpmin": 4
         },
         {
             "canClip": false,
@@ -9647,7 +9647,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000000,
-            "tpmin": 1
+            "tpmin": 4
         },
         {
             "canClip": false,
@@ -9706,7 +9706,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000000,
-            "tpmin": 1
+            "tpmin": 4
         },
         {
             "canClip": false,
@@ -9765,7 +9765,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000000,
-            "tpmin": 1
+            "tpmin": 4
         },
         {
             "canClip": true,
