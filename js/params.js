@@ -9238,7 +9238,7 @@ if(window.params == null)window.params={
             ],
             "palaceBuff": 191141,
             "region": 5000000,
-            "tpmin": 2
+            "tpmin": 4
         },
         {
             "canClip": true,
@@ -9289,7 +9289,7 @@ if(window.params == null)window.params={
             ],
             "palaceBuff": 191141,
             "region": 5000000,
-            "tpmin": 2
+            "tpmin": 4
         },
         {
             "canClip": false,
