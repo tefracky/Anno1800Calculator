@@ -1050,7 +1050,7 @@ if(window.params == null)window.params={
             ],
             "palaceBuff": 269254,
             "region": 5000000,
-            "tpmin": 0.6666666666666667
+            "tpmin": 0.66666667
         },
         {
             "canClip": false,
@@ -2197,7 +2197,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000000,
-            "tpmin": 0.6666666666666667
+            "tpmin": 0.66666667
         },
         {
             "canClip": false,
@@ -2542,7 +2542,7 @@ if(window.params == null)window.params={
             ],
             "palaceBuff": 269277,
             "region": 5000000,
-            "tpmin": 0.6666666666666667
+            "tpmin": 0.66666667
         },
         {
             "canClip": false,
@@ -2650,7 +2650,7 @@ if(window.params == null)window.params={
             ],
             "palaceBuff": 269279,
             "region": 5000000,
-            "tpmin": 0.6666666666666667
+            "tpmin": 0.66666667
         },
         {
             "canClip": true,
@@ -3531,7 +3531,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000000,
-            "tpmin": 0.6666666666666667
+            "tpmin": 0.66666667
         },
         {
             "canClip": false,
@@ -3796,7 +3796,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000000,
-            "tpmin": 0.6666666666666667
+            "tpmin": 0.66666667
         },
         {
             "canClip": false,
@@ -4347,7 +4347,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000001,
-            "tpmin": 0.6666666666666667
+            "tpmin": 0.66666667
         },
         {
             "canClip": false,
@@ -5485,7 +5485,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 160001,
-            "tpmin": 0.6666666666666667
+            "tpmin": 0.66666667
         },
         {
             "canClip": false,
@@ -5925,7 +5925,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 160001,
-            "tpmin": 0.6666666666666667
+            "tpmin": 0.66666667
         },
         {
             "canClip": false,
@@ -6922,7 +6922,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000001,
-            "tpmin": 0.6666666666666667
+            "tpmin": 0.66666667
         },
         {
             "canClip": true,
@@ -8264,7 +8264,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 114327,
-            "tpmin": 0.6666666666666667
+            "tpmin": 0.66666667
         },
         {
             "canClip": false,
@@ -8534,7 +8534,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 114327,
-            "tpmin": 0.6666666666666667
+            "tpmin": 0.66666667
         },
         {
             "canClip": false,
@@ -8799,7 +8799,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000000,
-            "tpmin": 0.6666666666666667
+            "tpmin": 0.66666667
         },
         {
             "canClip": false,
@@ -9588,7 +9588,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000000,
-            "tpmin": 4
+            "tpmin": 0.667
         },
         {
             "canClip": false,
@@ -9647,7 +9647,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000000,
-            "tpmin": 4
+            "tpmin": 0.667
         },
         {
             "canClip": false,
@@ -9706,7 +9706,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000000,
-            "tpmin": 4
+            "tpmin": 0.667
         },
         {
             "canClip": false,
@@ -9765,7 +9765,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000000,
-            "tpmin": 4
+            "tpmin": 0.667
         },
         {
             "canClip": true,
