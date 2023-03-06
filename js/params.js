@@ -9836,12 +9836,12 @@ if(window.params == null)window.params={
             "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_ethanol.png",
             "inputs": [
                 {
-                    "Amount": 1,
+                    "Amount": 0.5,
                     "Product": 120008,
                     "StorageAmount": 5
                 },
                 {
-                    "Amount": 1,
+                    "Amount": 0.5,
                     "Product": 120034,
                     "StorageAmount": 5
                 }
@@ -9873,13 +9873,13 @@ if(window.params == null)window.params={
             "name": "Chemical Plant: Ethanol",
             "outputs": [
                 {
-                    "Amount": 4,
+                    "Amount": 1,
                     "Product": 135130,
                     "StorageAmount": 40
                 }
             ],
             "region": 5000001,
-            "tpmin": 2
+            "tpmin": 4
         },
         {
             "canClip": true,
@@ -9891,17 +9891,17 @@ if(window.params == null)window.params={
             "iconPath": "data/ui/2kimages/main/3dicons/goods_highlife/icon_celluloid.png",
             "inputs": [
                 {
-                    "Amount": 1,
+                    "Amount": 0.5,
                     "Product": 1010253,
                     "StorageAmount": 5
                 },
                 {
-                    "Amount": 1,
+                    "Amount": 0.5,
                     "Product": 134616,
                     "StorageAmount": 5
                 },
                 {
-                    "Amount": 1,
+                    "Amount": 0.5,
                     "Product": 135130,
                     "StorageAmount": 5
                 }
@@ -9933,13 +9933,13 @@ if(window.params == null)window.params={
             "name": "Chemical Plant: Celluloid",
             "outputs": [
                 {
-                    "Amount": 4,
+                    "Amount": 1,
                     "Product": 135150,
                     "StorageAmount": 40
                 }
             ],
             "region": 5000001,
-            "tpmin": 2
+            "tpmin": 4
         },
         {
             "canClip": false,
