@@ -9873,13 +9873,13 @@ if(window.params == null)window.params={
             "name": "Chemical Plant: Ethanol",
             "outputs": [
                 {
-                    "Amount": 1,
+                    "Amount": 4,
                     "Product": 135130,
-                    "StorageAmount": 10
+                    "StorageAmount": 40
                 }
             ],
             "region": 5000001,
-            "tpmin": 4
+            "tpmin": 2
         },
         {
             "canClip": true,
@@ -9933,13 +9933,13 @@ if(window.params == null)window.params={
             "name": "Chemical Plant: Celluloid",
             "outputs": [
                 {
-                    "Amount": 1,
+                    "Amount": 4,
                     "Product": 135150,
-                    "StorageAmount": 10
+                    "StorageAmount": 40
                 }
             ],
             "region": 5000001,
-            "tpmin": 4
+            "tpmin": 2
         },
         {
             "canClip": false,
