@@ -9765,7 +9765,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000000,
-            "tpmin": 0.667
+            "tpmin": 0.25
         },
         {
             "canClip": true,
@@ -10908,12 +10908,12 @@ if(window.params == null)window.params={
             "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_film_role.png",
             "inputs": [
                 {
-                    "Amount": 1,
+                    "Amount": 0.5,
                     "Product": 1010232,
                     "StorageAmount": 5
                 },
                 {
-                    "Amount": 1,
+                    "Amount": 0.5,
                     "Product": 135150,
                     "StorageAmount": 5
                 }
@@ -10951,7 +10951,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000001,
-            "tpmin": 0.5
+            "tpmin": 2
         },
         {
             "canClip": true,
