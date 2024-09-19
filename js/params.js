@@ -15338,6 +15338,11 @@ if(window.params == null)window.params={
                     "AdditionalOutputCycle": 6,
                     "Amount": 1,
                     "Product": 1010233
+                },
+                {
+                    "AdditionalOutputCycle": 6,
+                    "Amount": 1,
+                    "Product": 115980
                 }
             ],
             "dlcs": [
