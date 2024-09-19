@@ -8851,7 +8851,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000000,
-            "tpmin": 1
+            "tpmin": 0.5
         },
         {
             "canClip": false,
@@ -8905,7 +8905,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000000,
-            "tpmin": 1
+            "tpmin": 0.5
         },
         {
             "canClip": true,
@@ -8959,7 +8959,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000000,
-            "tpmin": 1
+            "tpmin": 0.5
         },
         {
             "canClip": true,
