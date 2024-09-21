@@ -1,4 +1,4 @@
-if(window.params == null)window.params={
+if (window.params == null) window.params = {
     "dlcs": [
         {
             "guid": 4100010,
@@ -8851,7 +8851,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000000,
-            "tpmin": 1
+            "tpmin": 0.5
         },
         {
             "canClip": false,
@@ -8905,7 +8905,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000000,
-            "tpmin": 1
+            "tpmin": 0.5
         },
         {
             "canClip": true,
@@ -8959,7 +8959,7 @@ if(window.params == null)window.params={
                 }
             ],
             "region": 5000000,
-            "tpmin": 1
+            "tpmin": 0.5
         },
         {
             "canClip": true,
@@ -10386,186 +10386,186 @@ if(window.params == null)window.params={
                 "taiwanese": "冰淇淋工廠"
             },
             "maintenances": [
-            {
-                "Amount": 200,
-                "InactiveAmount": 100,
-                "Product": 1010017
-            },
-            {
-                "Amount": 100,
-                "Product": 5406
-            }
-        ],
-        "name": "Ice Cream Factory",
-        "outputs": [
-            {
-                "Amount": 1,
-                "Product": 5382,
-                "StorageAmount": 4
-            }
-        ],
-        "region": 5000001,
-        "tpmin": 1
-    },
-    {
-        "canClip": true,
-        "dlcs": [
-            "dlc12"
-        ],
-        "guid": 6594,
-        "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_mezcal.png",
-        "inputs": [
-            {
-                "Amount": 1,
-                "Product": 133097,
-                "StorageAmount": 6
-            },
-            {
-                "Amount": 1,
-                "Product": 1010239,
-                "StorageAmount": 6
-            },
-            {
-                "Amount": 1,
-                "Product": 5383,
-                "StorageAmount": 6
-            }
-        ],
-        "locaText": {
-            "chinese": "龙舌兰酒吧",
-            "english": "Mezcal Bar",
-            "french": "Bar à mezcal",
-            "german": "Mezcal-Ausschank",
-            "italian": "Bar Mescal",
-            "japanese": "メスカルバー",
-            "korean": "메즈칼 술집",
-            "polish": "Fabryka mezcalu",
-            "russian": "Мескаль-бар",
-            "spanish": "Bar de mezcal",
-            "taiwanese": "龍舌蘭酒吧"
+                {
+                    "Amount": 200,
+                    "InactiveAmount": 100,
+                    "Product": 1010017
+                },
+                {
+                    "Amount": 100,
+                    "Product": 5406
+                }
+            ],
+            "name": "Ice Cream Factory",
+            "outputs": [
+                {
+                    "Amount": 1,
+                    "Product": 5382,
+                    "StorageAmount": 4
+                }
+            ],
+            "region": 5000001,
+            "tpmin": 1
         },
-        "maintenances": [
-            {
-                "Amount": 150,
-                "InactiveAmount": 75,
-                "Product": 1010017
+        {
+            "canClip": true,
+            "dlcs": [
+                "dlc12"
+            ],
+            "guid": 6594,
+            "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_mezcal.png",
+            "inputs": [
+                {
+                    "Amount": 1,
+                    "Product": 133097,
+                    "StorageAmount": 6
+                },
+                {
+                    "Amount": 1,
+                    "Product": 1010239,
+                    "StorageAmount": 6
+                },
+                {
+                    "Amount": 1,
+                    "Product": 5383,
+                    "StorageAmount": 6
+                }
+            ],
+            "locaText": {
+                "chinese": "龙舌兰酒吧",
+                "english": "Mezcal Bar",
+                "french": "Bar à mezcal",
+                "german": "Mezcal-Ausschank",
+                "italian": "Bar Mescal",
+                "japanese": "メスカルバー",
+                "korean": "메즈칼 술집",
+                "polish": "Fabryka mezcalu",
+                "russian": "Мескаль-бар",
+                "spanish": "Bar de mezcal",
+                "taiwanese": "龍舌蘭酒吧"
             },
-            {
-                "Amount": 25,
-                "Product": 5406
-            }
-        ],
-        "name": "Mezcal Bar",
-        "outputs": [
-            {
-                "Amount": 1,
-                "Product": 6600,
-                "StorageAmount": 4
-            }
-        ],
-        "region": 5000001,
-        "tpmin": 2
-    },
-    {
-        "canClip": false,
-        "dlcs": [
-            "dlc12"
-        ],
-        "guid": 5658,
-        "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_scooter.png",
-        "inputs": [
-            {
-                "Amount": 1,
-                "Product": 5390,
-                "StorageAmount": 6
-            },
-            {
-                "Amount": 1,
-                "Product": 5400,
-                "StorageAmount": 6
-            },
-            {
-                "Amount": 1,
-                "Product": 1010255,
-                "StorageAmount": 6
-            }
-        ],
-        "locaText": {
-            "chinese": "摩托车工厂",
-            "english": "Scooter Factory",
-            "french": "Usine de scooters",
-            "german": "Motorroller-Fabrik",
-            "italian": "Fabbrica di scooter",
-            "japanese": "スクーター工場",
-            "korean": "스쿠터 공장",
-            "polish": "Fabryka hulajnóg",
-            "russian": "Завод мотороллеров",
-            "spanish": "Fábrica de scooters",
-            "taiwanese": "機車工廠"
+            "maintenances": [
+                {
+                    "Amount": 150,
+                    "InactiveAmount": 75,
+                    "Product": 1010017
+                },
+                {
+                    "Amount": 25,
+                    "Product": 5406
+                }
+            ],
+            "name": "Mezcal Bar",
+            "outputs": [
+                {
+                    "Amount": 1,
+                    "Product": 6600,
+                    "StorageAmount": 4
+                }
+            ],
+            "region": 5000001,
+            "tpmin": 2
         },
-        "maintenances": [
-            {
-                "Amount": 2000,
-                "InactiveAmount": 1000,
-                "Product": 1010017
+        {
+            "canClip": false,
+            "dlcs": [
+                "dlc12"
+            ],
+            "guid": 5658,
+            "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_scooter.png",
+            "inputs": [
+                {
+                    "Amount": 1,
+                    "Product": 5390,
+                    "StorageAmount": 6
+                },
+                {
+                    "Amount": 1,
+                    "Product": 5400,
+                    "StorageAmount": 6
+                },
+                {
+                    "Amount": 1,
+                    "Product": 1010255,
+                    "StorageAmount": 6
+                }
+            ],
+            "locaText": {
+                "chinese": "摩托车工厂",
+                "english": "Scooter Factory",
+                "french": "Usine de scooters",
+                "german": "Motorroller-Fabrik",
+                "italian": "Fabbrica di scooter",
+                "japanese": "スクーター工場",
+                "korean": "스쿠터 공장",
+                "polish": "Fabryka hulajnóg",
+                "russian": "Завод мотороллеров",
+                "spanish": "Fábrica de scooters",
+                "taiwanese": "機車工廠"
             },
-            {
-                "Amount": 200,
-                "Product": 5406
-            }
-        ],
-        "name": "Scooter Factory",
-        "outputs": [
-            {
-                "Amount": 1,
-                "Product": 5391,
-                "StorageAmount": 4
-            }
-        ],
-        "region": 5000001,
-        "tpmin": 0.5
-    },
-    {
-        "canClip": true,
-        "dlcs": [
-            "dlc12"
-        ],
-        "guid": 5659,
-        "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_motor.png",
-        "inputs": [
-            {
-                "Amount": 1,
-                "Product": 6280,
-                "StorageAmount": 6
-            },
-            {
-                "Amount": 1,
-                "Product": 135150,
-                "StorageAmount": 6
-            },
-            {
-                "Amount": 1,
-                "Product": 1010219,
-                "StorageAmount": 6
-            }
-        ],
-        "locaText": {
-            "chinese": "马达装配厂",
-            "english": "Motor Assembly Plant",
-            "french": "Usine d'assemblage de moteurs",
-            "german": "Motorenfabrik",
-            "italian": "Fabbrica di montaggio automobilistica",
-            "japanese": "モーター組み立て工場",
-            "korean": "전동기 조립 공장",
-            "polish": "Montażownia silników",
-            "russian": "Линия сборки двигателей",
-            "spanish": "Planta de ensamblaje de motores",
-            "taiwanese": "馬達裝配廠"
+            "maintenances": [
+                {
+                    "Amount": 2000,
+                    "InactiveAmount": 1000,
+                    "Product": 1010017
+                },
+                {
+                    "Amount": 200,
+                    "Product": 5406
+                }
+            ],
+            "name": "Scooter Factory",
+            "outputs": [
+                {
+                    "Amount": 1,
+                    "Product": 5391,
+                    "StorageAmount": 4
+                }
+            ],
+            "region": 5000001,
+            "tpmin": 0.5
         },
-        "maintenances": [
-            {
-                "Amount": 400,
-                "InactiveAmount": 200,
+        {
+            "canClip": true,
+            "dlcs": [
+                "dlc12"
+            ],
+            "guid": 5659,
+            "iconPath": "data/ui/2kimages/main/3dicons/production_goods/icon_motor.png",
+            "inputs": [
+                {
+                    "Amount": 1,
+                    "Product": 6280,
+                    "StorageAmount": 6
+                },
+                {
+                    "Amount": 1,
+                    "Product": 135150,
+                    "StorageAmount": 6
+                },
+                {
+                    "Amount": 1,
+                    "Product": 1010219,
+                    "StorageAmount": 6
+                }
+            ],
+            "locaText": {
+                "chinese": "马达装配厂",
+                "english": "Motor Assembly Plant",
+                "french": "Usine d'assemblage de moteurs",
+                "german": "Motorenfabrik",
+                "italian": "Fabbrica di montaggio automobilistica",
+                "japanese": "モーター組み立て工場",
+                "korean": "전동기 조립 공장",
+                "polish": "Montażownia silników",
+                "russian": "Линия сборки двигателей",
+                "spanish": "Planta de ensamblaje de motores",
+                "taiwanese": "馬達裝配廠"
+            },
+            "maintenances": [
+                {
+                    "Amount": 400,
+                    "InactiveAmount": 200,
                     "Product": 1010017
                 },
                 {
@@ -11220,15 +11220,15 @@ if(window.params == null)window.params={
             "locaText": {
                 "chinese": "牧场",
                 "english": "Pasture",
-                    "french": "Pâturage",
-                    "german": "Weide",
-                    "italian": "Pascolo",
-                    "japanese": "牛の牧草地",
-                    "korean": "목초지",
-                    "polish": "Pastwisko",
-                    "russian": "Пастбище",
-                    "spanish": "Pasto",
-                    "taiwanese": "牧場"
+                "french": "Pâturage",
+                "german": "Weide",
+                "italian": "Pascolo",
+                "japanese": "牛の牧草地",
+                "korean": "목초지",
+                "polish": "Pastwisko",
+                "russian": "Пастбище",
+                "spanish": "Pasto",
+                "taiwanese": "牧場"
             },
             "maintenances": [
             ],
@@ -15338,6 +15338,12 @@ if(window.params == null)window.params={
                     "AdditionalOutputCycle": 6,
                     "Amount": 1,
                     "Product": 1010233
+                },
+                {
+                    "_comment": "Führt zu Rechner-Absturz",
+                    "AdditionalOutputCycle": 6,
+                    "Amount": 1,
+                    "Product": 115980
                 }
             ],
             "dlcs": [
